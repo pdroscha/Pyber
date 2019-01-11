@@ -7,8 +7,11 @@ You've since been given access to the company's complete recordset of rides. Thi
 Your objective is to build a Bubble Plot that showcases the relationship between four key variables:
 
 Average Fare ($) Per City
+
 Total Number of Rides Per City
+
 Total Number of Drivers Per City
+
 City Type (Urban, Suburban, Rural)
 
 
